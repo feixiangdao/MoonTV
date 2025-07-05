@@ -77,5 +77,151 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     }
+    "ffzy": {
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡资源",
+      "detail": "http://ffzy5.tv"
+    },
+    "ikun": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "爱坤资源",
+      "detail": "https://www.ikunzy.com"
+    },
+    "bfzy": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "暴风资源",
+      "detail": "https://bfzy.tv"
+    },
+    "lzzy": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源",
+      "detail": "https://lzizy.net"
+    },
+    "hnzy": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源",
+      "detail": "https://hongniuziyuan.com"
+    },
+    "jyzy": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源",
+      "detail": "https://jinyingzy.net"
+    },
+    "hyzy": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙资源",
+      "detail": "https://huyazy.com"
+    },
+    "gszy": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源",
+      "detail": "https://guangsuzy.com"
+    },
+    "jszy": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "极速资源",
+      "detail": "https://jszyapi.com"
+    },
+    "ryzy": {
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "name": "如意资源",
+      "detail": "https://ryzyw.com"
+    },
+    "mzzy": {
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "name": "魔爪资源",
+      "detail": "https://mozhuazy.com"
+    },
+    "hwzy": {
+      "api": "https://hwb.ioioz.com/api.php/provide/vod",
+      "name": "华为吧资源",
+      "detail": "https://hwb.ioioz.com"
+    },
+    "dbzy": {
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "name": "豆瓣资源",
+      "detail": "https://dbzy.tv"
+    },
+    "mtzy": {
+      "api": "https://mtzy.me/api.php/provide/vod",
+      "name": "茅台资源",
+      "detail": "https://mtzy.me"
+    },
+    "snzy": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源",
+      "detail": "https://suonizy.com"
+    },
+    "ukzy": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "name": "U酷资源",
+      "detail": "https://ukuzy.com"
+    },
+    "kczy": {
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod",
+      "name": "快车资源",
+      "detail": "https://kuaichezy.com"
+    },
+    "tpzy": {
+      "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml",
+      "name": "淘片资源",
+      "detail": "https://taopianzy.com"
+    },
+    "wlzy": {
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "name": "卧龙资源",
+      "detail": "https://wolongzyw.com"
+    },
+    "nnzy": {
+      "api": "https://niuniuzy.cc/api.php/provide/vod",
+      "name": "牛牛资源",
+      "detail": "https://niuniuzy.cc"
+    },
+    "xmyzy": {
+      "api": "https://zy.xmysp.com/api.php/provide/vod",
+      "name": "小绵羊资源",
+      "detail": "https://xmysp.com"
+    },
+    "xmzy": {
+      "api": "https://zy.xiamijx.com/api.php/provide/vod",
+      "name": "虾米资源",
+      "detail": "https://xiamijx.com"
+    },
+    "qlzy": {
+      "api": "https://www.qilinzyz.com/api.php/provide/vod",
+      "name": "麒麟资源",
+      "detail": "https://qilinzyz.com"
+    },
+    "fczy": {
+      "api": "https://fcapi.net/api.php/provide/vod",
+      "name": "蜂巢资源",
+      "detail": "https://fcapi.net"
+    },
+    "hhzy": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源",
+      "detail": "https://haohuazy.com"
+    },
+    "mdzy": {
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "name": "魔都资源",
+      "detail": "https://moduzy.com"
+    },
+    "hhzy2": {
+      "api": "https://hhzyapi.cn/api.php/provide/vod",
+      "name": "火花资源",
+      "detail": "https://hhzyapi.cn"
+    },
+    "sbzy": {
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "name": "速播资源",
+      "detail": "https://subocaiji.com"
+    },
+    "hmezy": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "name": "黑木耳资源",
+      "detail": "https://heimuer.tv"
+    }
+    
   }
 }
